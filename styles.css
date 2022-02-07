@@ -13,7 +13,7 @@ body{
 }
 
 #logohome{
-   font-size: 50px;
+   font-size: 25px;
    text-decoration: none;
    font-family: Arial, Helvetica, sans-serif;
    font-weight:bold;
@@ -47,7 +47,7 @@ body{
    color: blue;
 }
 .ideaPlace{
-   font-size: 30px; 
+   font-size: 35px; 
    text-decoration: none;
    color:white;
    margin-left: 15px;
