@@ -52,3 +52,11 @@ body{
    color:white;
    margin-left: 15px;
    }
+
+.block{
+   float:left;
+   padding:15px;
+}
+.contact-group p{
+   display: inline;
+}
