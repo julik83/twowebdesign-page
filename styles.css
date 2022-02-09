@@ -57,6 +57,9 @@ body{
    float:left;
    padding:15px;
 }
+.block p{
+   padding:0px;
+}
 .contact-group p{
    display: inline;
 }
