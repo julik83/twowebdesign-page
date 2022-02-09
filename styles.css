@@ -57,9 +57,11 @@ body{
    float:left;
    padding:15px;
 }
-.block p{
-   padding:0px;
+.block .invoice-group p{
+   margin:0px;
+   line-height: 2em;
 }
 .contact-group p{
    display: inline;
+   line-height: 2em;
 }
